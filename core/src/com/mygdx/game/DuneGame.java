@@ -123,7 +123,6 @@ public class DuneGame extends ApplicationAdapter {
             texture.dispose();
         }
     }
-
     //В идеале должен принимать коллекцию и делить ее внутри себя на классы. Но времени мало и пока так.
     private static class GameHelper {
         Tank tank;
